@@ -4,7 +4,8 @@ First data assignment. Task was to pick an interesting dataset and extract insig
 
 <br> 
 
-The Report.html file is the notebook as a website. This allows easy viewing of the whole project. 
+The **Report.html** file is the notebook as a website. This allows easy viewing of the whole project. 
+Just download it and view the webpage with ease. 
 
 <br>
 
