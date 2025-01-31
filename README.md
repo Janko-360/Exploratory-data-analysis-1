@@ -16,8 +16,15 @@ Just download it and view the webpage with ease.
 4. Data exploration & visualisation
 5. And some reporting during every process 
 
-<br>
+## Some of the most interesting graphs
+Correlation between number of laps and number of pit stops.  
+Color coded by car class  
+![Laps vs numer of pit stops](/graphs/laps_vs_pits.png)  
 
+Correlation between finishing position and number of laps.  
+Color coded by car class  
+![Laps vs numer of pit stops](/graphs/pos_vs_laps.png) 
+  
 **Use** 
 - Use this however you want. And if you learn something from it, even better.
 - **BUT** no use for academic purposes. My project is on the plagiarism systems first.  
